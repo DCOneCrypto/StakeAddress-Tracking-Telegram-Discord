@@ -5,15 +5,15 @@
 
 ##### **Allows users to connect via API to receive information on changes to the Cardano blockchain stake balance about Telegram and Discord**
 
-Read more: [https://docs.dconecrypto.finance/community-user/wallets-tracking-notify](https://)
+Read more: [https://docs.dconecrypto.finance/community-user/wallets-tracking-notify](https://docs.dconecrypto.finance/community-user/wallets-tracking-notify)
 
 > **Note: Create an account before using the APIs**
 
-1. Create an account: Mainnet [https://dconecrypto.finance](https://)
+1. Create an account: Mainnet [https://dconecrypto.finance](https://dconecrypto.finance)
 
 ### REST API
 
-Network: `Mainnet` Endpoint: [`https://dconecrypto-mainnet.dconecrypto.finance`](https://)
+Network: `Mainnet` Endpoint: [`https://dconecrypto-mainnet.dconecrypto.finance`](https://dconecrypto-mainnet.dconecrypto.finance)
 
 ### Credentials when using API
 
@@ -57,6 +57,7 @@ Example api Authenticate responses
   "refreshTokenExpireInSeconds": 0
 }
 ```
+
 <h1 align="center">
 <p>Telegram API</p>
 </h1>
@@ -96,7 +97,7 @@ Example api response:
 - Security code is 6 digits long & valid for 2 minutes
 
 - Required fields to enter
-  - telegramId (get telegramId [https://t.me/DCOneCryptoBot](https://))
+  - telegramId (get telegramId [https://t.me/DCOneCryptoBot](https://t.me/DCOneCryptoBot))
   - stakeAddress (stakexxxxxxxxxxxxxxxxxxxxx)
   - userId (get userId at API `GetAllUserForTableDropdown`)
 
@@ -132,7 +133,7 @@ Example api response:
 When a payment is detected in the stake address, it will be sent information to Telegram
 
 - Required fields to enter
-  - telegramId (get telegramId [https://t.me/DCOneCryptoBot](https://))
+  - telegramId (get telegramId [https://t.me/DCOneCryptoBot](https://t.me/DCOneCryptoBot))
   - stakeAddress (stakexxxxxxxxxxxxxxxxxxxxx)
   - userId (get userId at API `GetAllUserForTableDropdown`)
   - telegramCodeOTP (security code sent via Telegram at API `TelegramSendOTP`)
@@ -227,6 +228,7 @@ Example api response:
   "__abp": true
 }
 ```
+
 <h1 align="center">
 <p>Discord API</p>
 </h1>
