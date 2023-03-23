@@ -1,4 +1,7 @@
-# **DCOne Crypto Telegram, Discord**
+<h1 align="center">
+<img src="logo/DCOneCrypto.png" width="200px">
+<p>DCOne Crypto Telegram, Discord</p>
+</h1>
 
 ##### **Allows users to connect via API to receive information on changes to the Cardano blockchain stake balance about Telegram and Discord**
 
@@ -54,8 +57,9 @@ Example api Authenticate responses
   "refreshTokenExpireInSeconds": 0
 }
 ```
-
-## Telegram API
+<h1 align="center">
+<p>Telegram API</p>
+</h1>
 
 #### Get userId by token. (GetAllUserForTableDropdown)
 
@@ -223,8 +227,9 @@ Example api response:
   "__abp": true
 }
 ```
-
-## Discord API
+<h1 align="center">
+<p>Discord API</p>
+</h1>
 
 #### Get userId by token. (GetAllUserForTableDropdown)
 
