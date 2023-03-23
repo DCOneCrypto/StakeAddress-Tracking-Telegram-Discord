@@ -455,10 +455,10 @@ Example api response:
 ### Some sample data results sent to Telegram, Discord
 
 1. Automatically send notifications when there is a balance change
-   ![Stake-address-tracking-via-telegram](/screenshots/Stake-address-tracking-via-telegram.PNG)
+1. ![Stake-address-tracking-via-telegram](/screenshots/Stake-address-tracking-via-telegram.PNG)
 
-2. List of all stake addresses
-   ![List of all stake addresses](/screenshots/list-all-stake-address.PNG)
+1. List of all stake addresses
+1. ![List of all stake addresses](/screenshots/list-all-stake-address.PNG)
 
-3. Automatically send notifications when there is a balance change
-   ![List of all stake addresses](/screenshots/stake-address-tracking-via-discord.PNG)
+1. Automatically send notifications when there is a balance change
+1. ![List of all stake addresses](/screenshots/stake-address-tracking-via-discord.PNG)
